@@ -1,7 +1,8 @@
-package com.avilapps.budget
+package com.avilapps.budget.dashboard
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.avilapps.budget.R
 
 class DashboardActivity : AppCompatActivity() {
 
